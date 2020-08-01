@@ -10,6 +10,8 @@ I am kaggle kernels master looking for opportunities and collabaration in projec
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mobassir94)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mobassir-hossen-916a83137/) [<img src = "https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo">](https://www.kaggle.com/mobassir) 
+[<img src = "https://img.shields.io/badge/Researchgate-%230077B5.svg?&style=for-the-badge&logo">](https://www.researchgate.net/profile/Syed_Hossen) 
+[<img src = "https://img.shields.io/badge/Quora-%230077B5.svg?&style=for-the-badge&logo">](https://www.quora.com/profile/Syed-Mobassir) 
 
 # mobassirCV
 live : https://mobassir94.github.io/mobassircv.github.io/
