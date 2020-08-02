@@ -1,4 +1,4 @@
-<img src="https://github.com/mobassir94/mobassir94/blob/master/screenshots/2x%20Master.PNG">
+<img src="https://github.com/mobassir94/mobassir94/blob/master/screenshots/116267800_2646446292297842_816304043627286481_o.jpg">
 
 ### Hi 👋
 I am kaggle kernels master looking for opportunities and collabaration in projects related to data science and deep learning.
